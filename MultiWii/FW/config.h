@@ -170,6 +170,7 @@
       //#define ITG3200
       //#define MPU3050
       //#define L3G4200D
+      //Andre
       //#define MPU6050       //combo + ACC
       //#define LSM330        //combo + ACC
       
