@@ -12,3 +12,5 @@ http://www.multiwii.com/wiki/index.php?title=Config.h
 Arduino:
 https://www.arduino.cc/en/Main/Software
 
+Frame adopted for ANet A8
+https://www.thingiverse.com/thing:672707
